@@ -44,7 +44,10 @@ The screen should display something similar to the image.
 
 ![Julia](./img/julia.png)
 
+*To exit julia, just use `Ctrl-D` or type `exit()`*
+
 ***5.  Create a symbolic link.***
+
 
 Because we don't want to be typing the following command to run julia.  
 `/opt/julia-1.5.4/bin/julia`
